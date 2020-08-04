@@ -1,0 +1,26 @@
+{
+  "name": "pocket-tracer",
+  "version": "1.0.0",
+  "description": "expense management app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankmanu3/pocket-tracer.git"
+  },
+  "keywords": [
+    "expense",
+    "loan",
+    "salary",
+    "management",
+    "monthly"
+  ],
+  "author": "Mayank Manu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankmanu3/pocket-tracer/issues"
+  },
+  "homepage": "https://github.com/mayankmanu3/pocket-tracer#readme"
+}
