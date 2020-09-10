@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://secret03:secretpass@pockettracer.lj6dn.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://secret03:secretpass@pockettracer.lj6dn.mongodb.net/contacts?retryWrites=true&w=majority",
+  "jwt_secret": "biggest_lie"
 }
