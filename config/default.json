@@ -1,0 +1,3 @@
+{
+    "mongoURI" : "mongodb+srv://secret03:secretpass@pockettracer.lj6dn.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
